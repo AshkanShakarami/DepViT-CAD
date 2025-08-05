@@ -7,6 +7,6 @@ Please cite our work (paper) if you use any part of the code, paper, or associat
 
 The dataset used is also made available here.
 
-[![Watch the image in orginal size](Graphical_Abstract.jpg)](https://github.com/AshkanShakarami/DepViT-CAD/blob/main/Graphical_Abstract.png)
+[![Watch the image in orginal size](Graphical_Abstract.png)](https://github.com/AshkanShakarami/DepViT-CAD/blob/main/Graphical_Abstract.png)
 
 
